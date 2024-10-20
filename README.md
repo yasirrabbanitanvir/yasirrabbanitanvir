@@ -1,7 +1,7 @@
+![My Cover](https://github.com/user-attachments/assets/3a82adf2-1a02-44d4-be84-d4b8d4753aa7)
 # Hi there 👋, I'm Yasir Rabbani Tanvir  
 ### 🌐 Web Developer | Curious Learner | Tech Enthusiast  
 
-![Web Developer Banner](https://www.linkedin.com/in/yasirrabbanitanvir/overlay/background-image/)  
 
 ---
 
