@@ -1,4 +1,4 @@
-![My Cover](https://github.com/user-attachments/assets/3a82adf2-1a02-44d4-be84-d4b8d4753aa7)
+https://github.com/user-attachments/assets/90f28c10-66ad-498a-97e9-947564dad5e1
 # Hi there 👋, I'm Yasir Rabbani Tanvir  
 ### 🌐 Web Developer | Curious Learner | Tech Enthusiast  
 
