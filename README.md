@@ -22,4 +22,4 @@
 ### 🛠 Skills  
 ```plaintext
 HTML | CSS | Bootstrap | JavaScript | React.js | Tailwind CSS | Next.js (Learning)
-Java | C# | MySQL | Git | GitHub
+Python | C# | MySQL | Git | GitHub
