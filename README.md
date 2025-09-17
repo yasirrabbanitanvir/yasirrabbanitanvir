@@ -4,14 +4,6 @@
 
 ### 💻 Software Developer @ Telerad Medical Systems Ltd  
 🎓 CSE Graduate | BUBT  
-⚡ Innovative Thinker | Tech Enthusiast | Lifelong Learner  
-
----
-
-✨ Passionate about **designing and building efficient software solutions** that solve real-world challenges.  
-🚀 Skilled in **application development, system design, and database management**.  
-🌱 Currently exploring **AI, Distributed Systems, and Cloud Architecture**.  
-💡 I thrive on **continuous learning** and collaborating on impactful projects.  
 
 ---
 
@@ -21,7 +13,7 @@
 - Knowledge Sharing & Mentorship  
 
 📧 **Reach me at:** yasirrabbanitanvir@gmail.com  
-📄 **[View My Résumé](#)** – Let’s connect and create something meaningful!  
+📄 **[View My Résumé](#)** – Let’s connect and create something meaningful  
 
 ---
 
@@ -29,6 +21,6 @@
 ```plaintext
 Programming: Python | C  
 Frontend:    HTML | CSS | Bootstrap | JavaScript | React.js | Tailwind CSS  
-Backend:     Python (Learning) | PHP  
+Backend:     Django (Learning) | PHP  
 Database:    MySQL | PostgreSQL  
 Tools:       Git | GitHub  
