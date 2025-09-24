@@ -21,7 +21,7 @@
 ### 🛠 Tech Stack  
 ```plaintext
 Programming: Python | C  
-Frontend:    HTML | CSS | Bootstrap | JavaScript | React.js | Tailwind CSS  
+Frontend:    HTML | CSS | JavaScript | React.js
 Backend:     Django (Learning) | PHP  
 Database:    MySQL | PostgreSQL  
 Tools:       Git | GitHub  
